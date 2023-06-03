@@ -30,4 +30,4 @@ An e-commerce website template , built with HTML , CSS , and Bootstrap
 ![cart top](/images/carttop.png "Capstone1.5 cart top")
 
 
-![cart bottom](/images/cartbottom.png"Capstone1.5  cart bottom")
+![cart bottom](/images/cartbottom.png "Capstone1.5  cart bottom")
