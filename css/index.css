@@ -1,0 +1,126 @@
+.navbar-brand {
+
+  font-weight: bold;
+}
+
+.navbar-nav {
+
+  align-content: space-evenly;
+  text-align: justify;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: all 0.5s;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+
+* {
+  font-size: medium
+}
+
+/* Define the animation */
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-30px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+/* Apply the animation to an element */
+.box {
+  animation-name: bounce;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+
+}
+
+h1 {
+  color: rgb(0, 0, 1);
+}
+
+p {
+  color: #e8e8e8;
+}
+
+label {
+  color: #e8e8e8
+}
+
+.invalid-feedback {
+  color: rgb(255, 255, 255);
+}
+
+strong {
+  color: black
+}
+
+.card-text {
+  color: black;
+}
+
+
+.mt-0 {
+  margin-top: 0 !important;
+}
+
+
+.parent {
+  display: flex;
+  align-items: center;
+}
+
+
+.lead {
+
+  font-weight: 300;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+
+.g-5,
+.gy-5 {
+  --bs-gutter-y: 3rem;
+}
+
+.g-5,
+.gx-5 {
+  --bs-gutter-x: 3rem;
+}
+
+.form {
+  align-items: center;
+  font-size: medium;
+  
+}
