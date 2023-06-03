@@ -7,23 +7,27 @@ An e-commerce website template , built with HTML , CSS , and Bootstrap
 
 #Year up trainee
 # Pluralsight 
-# My first capstone project I was tasked to make a 5 page E-commerce website on something I was interested in , I scrapped many times until i found m theme colors:red, green , white, & black.
-
-# My challanges: Choosing a topic , manually writing code word from word just to erase to start over.
-
-# Overcoming my challanges: Re-Reading schoology workbook, watching youtube videos, and re-watch pluralsight videos. Re-read Bootstrap 5.3 docs and examples.
-
-# My first capstone project.
-
-<<<<<<< HEAD
-![cart](/images/oldercart.png "Cart")
-
-![collection](/images/collection.png "Collection")
-
-![Homepage](/images/newhomepage.png "Homepage")
 
 
-=======
->>>>>>> a7e043706d9fa3be74c3064e89ed963ca2bd3d28
+#Here is capstone 1.5 , changes made (color of label text on dange/red color changed to white) & change animatioa nd image positon, remove unused code, ran code through validator , &  remove css not used. Clean code up. 
 
 
+
+![homepage](/images/newhomepage.png "capstone1.5 homepage")
+
+![homepage bottom](/images/homepagebottom.png "capstone1.5 homepage bottom")
+
+![sign in](/images/signin.png "Capstone1.5 sign in ")
+
+![login in](/images/signup.png "Capstone1.5 sign in " )
+
+
+
+![collection table](/images/gametable.png "Capstone1.5 collection table ")
+
+![collection of games](/images/collectionbottom.png "Capstone1.5 game collection ")
+
+![cart top](/images/carttop.png "Capstone1.5 cart top")
+
+
+![cart bottom](/images/cartbottom.png"Capstone1.5  cart bottom")
